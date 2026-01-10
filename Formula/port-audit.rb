@@ -5,11 +5,8 @@ class PortAudit < Formula
   sha256 "replace_with_sha256"
   license "MIT"
 
-  depends_on "oven-sh/bun/bun"
-
   def install
-    libexec.install Dir["*"]
-    bin.install libexec/"bin/port"
+    bin.install "port"
   end
 
   test do

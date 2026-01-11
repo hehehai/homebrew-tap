@@ -1,8 +1,8 @@
 class PortAudit < Formula
   desc "TUI tool for managing TCP listening ports on macOS"
   homepage "https://github.com/hehehai/port-audit"
-  url "https://github.com/hehehai/port-audit/releases/download/v0.1.8/port-audit-v0.1.8-macos.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/hehehai/port-audit/releases/download/v0.1.9/port-audit-v0.1.9-macos.tar.gz"
+  sha256 "ca73b0ce7c1a2a1d0904cddf843f35a8fc1133d36b5fe39b10c8d00c82366457"
   license "MIT"
 
   def install

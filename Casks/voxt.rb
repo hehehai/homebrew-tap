@@ -1,6 +1,6 @@
 cask "voxt" do
-  version "1.10.2"
-  sha256 "e0cb29bf0bf97f7cb9b94eb9c905d681a7b5ab12498c324154baf38ae7b540bc"
+  version "1.10.3"
+  sha256 "15b0810afb800c4fffb25480ba0ff849e76646bd1b250f11163ca2b034e30c2f"
 
   url "https://github.com/hehehai/voxt/releases/download/v#{version}/Voxt-#{version}-macOS.zip"
   name "Voxt"

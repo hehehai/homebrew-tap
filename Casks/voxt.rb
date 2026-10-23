@@ -1,6 +1,6 @@
 cask "voxt" do
-  version "1.16.2"
-  sha256 "e46154775febffa00ef47543bb62e6fe5ac31118cf1bde30e1721b9d8d43827f"
+  version "1.16.3"
+  sha256 "1a345808f0f30d0f129ba19539d05e961d4fc286f82417d87cc50d8988699d09"
 
   url "https://github.com/sgl-project/sglang-omni/releases/download/voxt-v#{version}/Voxt-#{version}-macOS.zip"
   name "Voxt"
